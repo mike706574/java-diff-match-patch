@@ -9,10 +9,10 @@
 
   <groupId>fun.mike</groupId>
   <artifactId>diff-match-patch</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.2-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <url>https://github.com/mike706574/diff-match-patch</url>
+  <url>https://github.com/mike706574/java-diff-match-patch</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -40,9 +40,9 @@
   </distributionManagement>
 
   <scm>
-    <connection>scm:git:https://github.com/mike706574/diff-match-patch.git</connection>
-    <developerConnection>scm:git:https://github.com/mike706574/diff-match-patch.git</developerConnection>
-    <url>http://github.com/mike706574/diff-match-patch/tree/master</url>
+    <connection>scm:git:https://github.com/mike706574/java-diff-match-patch.git</connection>
+    <developerConnection>scm:git:https://github.com/mike706574/java-diff-match-patch.git</developerConnection>
+    <url>http://github.com/mike706574/java-diff-match-patch/tree/master</url>
     <tag>HEAD</tag>
   </scm>
 
