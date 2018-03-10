@@ -9,7 +9,7 @@
 
   <groupId>fun.mike</groupId>
   <artifactId>diff-match-patch</artifactId>
-  <version>0.0.2-SNAPSHOT</version>
+  <version>0.0.2</version>
   <packaging>jar</packaging>
 
   <url>https://github.com/mike706574/java-diff-match-patch</url>
