@@ -558,7 +558,7 @@ public class DiffMatchPatch {
      * @param diffs     LinkedList of Diff objects.
      * @param lineArray List of unique strings.
      */
-    protected void diff_charsToLines(LinkedList<Diff> diffs,
+    public void diff_charsToLines(LinkedList<Diff> diffs,
             List<String> lineArray) {
         StringBuilder text;
         for (Diff diff : diffs) {
